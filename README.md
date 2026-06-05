@@ -1,28 +1,61 @@
-
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MateVida Digital PRO</title>
     <style>
-        body { font-family: 'Segoe UI', sans-serif; background-color: #f4f4f9; margin: 0; padding: 10px; }
-        .card { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
-        .header-content { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px; }
-        .text-side { flex: 2; min-width: 280px; }
-        .img-side { flex: 1; min-width: 150px; text-align: center; }
-        .img-side { 
-    flex: 1; 
-    min-width: 120px; /* Alineado con el nuevo tamaño del robot */
-    text-align: center; 
-}
-        .fila-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 20px; }
-        .item-lista { padding: 15px; text-align: center; border: 2px solid #f0f0f0; border-radius: 15px; }
-        h1 { color: #1565C0; font-size: 1.6rem; margin: 0 0 10px 0; }
-        h2 { color: #FF9800; text-align: center; font-size: 1.4rem; }
+        body { 
+            font-family: 'Segoe UI', sans-serif; 
+            background-color: #f4f4f9; 
+            margin: 0; 
+            padding: 20px 10px; 
+        }
+        .card { 
+            max-width: 800px; 
+            margin: auto; 
+            background: white; 
+            padding: 25px; 
+            border-radius: 20px; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1); 
+        }
+        .header-content { 
+            display: flex; 
+            flex-wrap: wrap; 
+            align-items: center; 
+            justify-content: center; /* Centra el contenido superior */
+            gap: 20px; 
+        }
+        .text-side { 
+            flex: 1; 
+            min-width: 280px; 
+        }
+        .fila-grid { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); 
+            gap: 15px; 
+            margin-top: 20px; 
+        }
+        .item-lista { 
+            padding: 15px; 
+            text-align: center; 
+            border: 2px solid #f0f0f0; 
+            border-radius: 15px; 
+            background: #FAFAFA;
+        }
+        h1 { 
+            color: #1565C0; 
+            font-size: 1.8rem; 
+            margin: 0 0 10px 0; 
+            text-align: center; /* Centra el título principal */
+        }
+        h2 { 
+            color: #FF9800; 
+            text-align: center; 
+            font-size: 1.4rem; 
+        }
         .text-blue { color: #1565C0; font-weight: bold; }
         .text-orange { color: #FF9800; font-weight: bold; }
         .text-green { color: #4CAF50; font-weight: bold; }
-        @media (max-width: 600px) { .header-content { flex-direction: column-reverse; } }
     </style>
 </head>
 <body>
@@ -37,7 +70,8 @@
                     "Migramos de la teoría abstracta hacia <span class="text-blue">entornos digitales de alto impacto</span>, donde los estudiantes desarrollan competencias clave para un futuro tecnológico."
                 </p>
             </div>
-        
+        </div>
+    </div> <!-- Cierre correcto de header-content -->
 
     <hr style="margin: 25px 0; border: none; border-top: 2px solid #EEE;">
 
@@ -70,7 +104,7 @@
     <div style="margin-top: 25px; background: linear-gradient(90deg,#1565C0,#4CAF50); color: white; padding: 15px; border-radius: 12px; text-align: center; font-weight: bold; font-size: 1.1rem;">
         🎓 Aprendizaje educativo disfrazado de diversión pura
     </div>
-</div>
+</div> <!-- Cierre correcto de card -->
 
 </body>
 </html>
