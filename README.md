@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MateVida Digital PRO</title>
+    <title>Mateken2</title>
     <style>
         body { 
             font-family: 'Segoe UI', sans-serif; 
@@ -63,7 +63,7 @@
 <div class="card">
     <div class="header-content">
         <div class="text-side">
-            <h1>🏠 MateVida <span class="text-orange">Digital</span> PRO</h1>
+            <h1>🏠 Mate <span class="text-orange">Digital</span> Ken2</h1>
             <div style="border-left: 5px solid #1565C0; padding-left: 15px; margin: 15px 0;">
                 <h3 style="color: #1565C0; margin: 0;">🌐 Innovación Educativa</h3>
                 <p style="font-size: 15px; line-height: 1.5; color: #555; font-style: italic;">
