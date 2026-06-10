@@ -67,8 +67,11 @@
             <div style="border-left: 5px solid #1565C0; padding-left: 15px; margin: 15px 0;">
                 <h3 style="color: #1565C0; margin: 0;">🌐 Innovación Educativa</h3>
                 <p style="font-size: 15px; line-height: 1.5; color: #555; font-style: italic;">
-                    "Migramos de la teoría abstracta hacia <span class="text-blue">entornos digitales de alto impacto</span>, donde los estudiantes desarrollan competencias clave para un futuro tecnológico."
+                    "Llevamos las matemáticas de la pizarra a un entorno digital de alto impacto. <span class="text-blue">Preparamos a los alumnos para el futuro tecnológico reforzando las operaciones básicas de forma divertida.</span>, Nuestra App apoya a docentes, tutores y Padres en la enseñanza de sumas, restas, multiplicaciones y divisiones.."
                 </p>
+                 <h3 style="color: #1565C0; margin: 0;">¿Cómo lo logramos?</h3>
+<p style="font-size: 0.9rem;">A través de misiones, retos interactivos y actividades lúdicas  <span class="text-orange">en un entorno amigable</span> y de confianza.</p>
+                
             </div>
         </div>
     </div> <!-- Cierre correcto de header-content -->
@@ -78,17 +81,17 @@
     <h2>🚀 Características Principales</h2>
     <div class="fila-grid">
         <div class="item-lista">
-            <div style="font-size: 30px;">📚</div>
+            <div style="font-size: 20px;">📚</div>
             <h3 style="color: #1565C0; margin: 5px 0;">Currículo</h3>
             <p style="font-size: 0.9rem;">Actividades basadas en <span class="text-blue">operaciones fundamentales</span>.</p>
         </div>
         <div class="item-lista">
-            <div style="font-size: 30px;">🎯</div>
+            <div style="font-size: 20px;">🎯</div>
             <h3 style="color: #FF9800; margin: 5px 0;">Adaptativo</h3>
             <p style="font-size: 0.9rem;">Avanza al <span class="text-orange">ritmo único</span> del estudiante.</p>
         </div>
         <div class="item-lista">
-            <div style="font-size: 30px;">🔒</div>
+            <div style="font-size: 20px;">🔒</div>
             <h3 style="color: #4CAF50; margin: 5px 0;">Seguridad</h3>
             <p style="font-size: 0.9rem;">Entorno <span class="text-green">100% libre</span> de publicidad.</p>
         </div>
